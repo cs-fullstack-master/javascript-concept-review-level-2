@@ -51,7 +51,7 @@ Expected Output :
 ```
 ### 3b: Return last n number of elements
 
-Write a JavaScript function to get the last n element(s) of an array. Passing a parameter 'n' will return the last 'n' elements of the array.
+Write a JavaScript function called `last` to get the last n number of element(s) of an array. Passing a parameter 'n' will return the last 'n' elements of the array.
 
 ex:
 ```
