@@ -2,7 +2,7 @@
 This 5 challenge review covers core JavaScript concepts and is expected to take Students 1.5 hr or less
 
 ## Directions
-* Create a new public GitHub repository called `javascript-concept-review-level-1`
+* Create a new public GitHub repository called `javascript-concept-review-level-2`
 * Clone repository and copy the contents of this README file to your README 
 * Create `index.html`,`style.css`, and `main.js` files in your project
 * Code your answers to each of the 5 questions using the Standard JavaScript Template described below:
