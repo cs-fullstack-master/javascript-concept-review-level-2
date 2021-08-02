@@ -1,4 +1,4 @@
-# JavaScript Review 2 - Functions and Loops
+# JavaScript Review 2 - Functions, Loops, Object Literals
 This 5 challenge review covers core JavaScript concepts and is expected to take Students 1.5 hr or less
 
 ## Directions
