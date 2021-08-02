@@ -37,7 +37,7 @@ ex. ```hello``` -> ```HELLO``` or ```HOWDY``` -> ```howdy```
 
 #### Return first n number of elements
 
-Write a JavaScript function to get the first n element(s) of an array. Passing a parameter 'n' will return the first 'n' elements of the array.
+Write a JavaScript function called `first()` to get the first n element(s) of an array. Passing a parameter 'n' will return the first 'n' elements of the array.
 
 ex: 
 ```
