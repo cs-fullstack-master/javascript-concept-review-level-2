@@ -15,7 +15,13 @@ main() {
     // etc.
 }
 ```
-
+Before you type ANY CODE, write out your steps to solve each exercise in each file. Use single line comments to pseudocode what you need to do to solve the problem *then* fill in the blanks.
+```
+// JUST AN EXAMPLE!
+// Create an array
+// Load objects into the array
+// Iterate through each element in the array and print the element
+```
 
 ### 1: Text Manipulation and Arrays
 Write a JavaScript function that accepts a sentence of words all in lowercase, and returns every other word in all caps.  
