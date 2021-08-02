@@ -17,19 +17,19 @@ main() {
 ```
 
 
-### 1:
+### 1: Text Manipulation and Arrays
 Write a JavaScript function that accepts a sentence of words all in lowercase, and returns every other word in all caps.  
 
 ex. ```in a galaxy far far away``` -> ```in A galaxy FAR far AWAY```
 
-### 2:
+### 2: Text Manipulation and Arrays
 Write a JavaScript function that accepts a word in all lowercase or in all uppercase, and returns the word in the opposite case. Hint: see toLowercase()
 
 ex. ```hello``` -> ```HELLO``` or ```HOWDY``` -> ```howdy```
 
-### 3:
+### 3: Functions and Arrays
 
-#### Return first n number of elemnts
+#### Return first n number of elements
 
 Write a JavaScript function to get the first n element(s) of an array. Passing a parameter 'n' will return the first 'n' elements of the array.
 
@@ -43,7 +43,7 @@ Expected Output :
 [7, 9, 0] 
 [7] 
 ```
-#### Return last n number of elements
+### 3b: Return last n number of elements
 
 Write a JavaScript function to get the last n element(s) of an array. Passing a parameter 'n' will return the last 'n' elements of the array.
 
@@ -57,7 +57,7 @@ Expected Output :
 [9, 0, -2] 
 [7, 9, 0, -2]
 ```
-### 4:
+### 4: Array Manipulation
 Write a JavaScript function to remove an element with a specific value from an array.
 
 ex:
@@ -69,7 +69,7 @@ Expected Output:
 [2, 9, 6]
 ```
 
-### 5:
+### 5: Object Literals and Arrays
 Create a new empty array called ```pet_list```. Add 3 pet objects (via object literals) to the ```pet_list``` array (each pet should have a type, age and a color property) You can choose the pets.
 
 Iterate the list of pets and print the properties for each pet
